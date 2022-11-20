@@ -1,7 +1,7 @@
 name = "ImageGrid"
 uuid = "cdebd379-5749-4d00-8c26-618f30afd883"
 authors = "Jorge Fernandez-de-Cossio-Diaz <j.cossio.diaz@gmail.com>"
-version = "0.1.0"
+version = "1.0.0"
 
 [deps]
 
